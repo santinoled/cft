@@ -1,1 +1,3 @@
-<?php echo ("index.php"); ?> 
+<?php 
+show_source ("index.php"); 
+?> 
